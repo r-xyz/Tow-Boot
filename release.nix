@@ -1,3 +1,4 @@
+#test
 # This expression is used to produce the release artifacts.
 # To build for a particular board, please refer to `default.nix` instead.
 
